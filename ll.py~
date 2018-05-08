@@ -1,0 +1,9 @@
+def add():
+	arg1=10
+	arg2=20
+	some=lambda arg1,arg2:arg1+arg2
+	print some
+add()
+
+
+

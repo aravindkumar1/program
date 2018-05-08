@@ -1,0 +1,8 @@
+a=20
+if a<20:
+	print 'Yay,its less than 20'
+elif a==20:
+	print 'its equal to 20'
+else:
+	print 'sorry'
+

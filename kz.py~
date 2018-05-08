@@ -1,0 +1,9 @@
+for t in 'python':
+	if t=='y':
+		continue
+	print t
+
+for g in 'python':
+	pass
+	print'hi'
+

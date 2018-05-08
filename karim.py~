@@ -1,0 +1,6 @@
+List = [1,2,3,3]
+print List
+print List[0:2]
+print List[0:3]
+Tuples =
+

@@ -1,0 +1,7 @@
+def add(a,b)
+	"This function is gonna be an addition function"
+	sum=a+b
+	print sum
+	return sum
+add(12,13)
+

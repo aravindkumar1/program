@@ -1,0 +1,3 @@
+dict = {'Country':'India','Age':'20'}
+print dict.keys
+

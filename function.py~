@@ -1,0 +1,19 @@
+class banking:
+	def _init_(self):
+		self.balance=0
+
+	def withdrawal(self,money):
+		self.balance-=money
+		print self.balance
+		return self.balance
+
+	def deposits(self,money):	
+		self.balance+=money
+		print self.balance
+		return self.balance
+
+
+krishna=banking()
+krishna.deposits(200)
+krishna.withdrawal(100)
+

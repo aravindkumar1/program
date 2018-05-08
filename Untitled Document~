@@ -1,0 +1,7 @@
+#include<stdio.h>
+#inlcude<conio.h>
+void main()
+{
+printf("HELllloooo this isss THE PROGRAmmm to be excuted and wait, It just did!");
+getch();
+}

@@ -1,0 +1,5 @@
+def choice(list):
+	list.append(['pan'])
+	print list
+choice([1,2,3,4,5,'sai'])
+

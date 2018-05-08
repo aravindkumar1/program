@@ -1,0 +1,4 @@
+Tuples = ('fff',8,'ssss',0.99)
+print Tuples
+
+

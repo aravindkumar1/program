@@ -1,0 +1,4 @@
+def mychoice(name,age):
+	print name,age
+mychoice('sai',age=10)
+
